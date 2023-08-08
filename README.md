@@ -2,4 +2,5 @@
 
 ## Команды
 
-1.Как задать имя пользователя и адрес электронной почты - **git config user.name** и **git config user.email**
+1.Задать имя пользователя и адрес электронной почты - 
+**git config user.name** и **git config user.email**
